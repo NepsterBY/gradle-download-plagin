@@ -12,3 +12,5 @@
 .gradle.properties
 .idea/
 lib/
+# Ignore Gradle build output directory
+build
